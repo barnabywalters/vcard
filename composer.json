@@ -4,7 +4,7 @@
     "description": "Fork of Frank Hellwig's VCard handling classes",
     "autoload": {
         "psr-0": {
-            "VCard": ""
+            "barnabywalters\\VCard": ""
         }
     }
 }
