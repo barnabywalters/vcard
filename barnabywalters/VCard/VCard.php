@@ -17,7 +17,7 @@
  */
 
 // Namespaces added by Barnaby Walters
-namespace VCard;
+namespace barnabywalters\VCard;
 
 /**
  * The VCard class encapsulates a single vCard object by maintaining a map of
